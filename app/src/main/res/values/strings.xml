@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wtt01</string>
+    <string name="city">City</string>
+    <string name="Image">iamge</string>
+    <string name="WeatherConditions">天气状态</string>
+    <string name="Time">时间</string>
+    <string name="Temperature">25°C</string>
+    <string name="Rainfall">降雨量</string>
+    <string name="WindSpeed">风速</string>
+    <string name="humidity">湿度</string>
+    <string name="HourlyWeather">每小时天气</string>
+    <string name="DetailsWeather">详细信息</string>
+    <string name="Wind">风向</string>
+    <string name="pressure">气压</string>
+    <string name="vis">能见度</string>
+    <string name="cloud">云量</string>
+    <string name="dew">露点温度</string>
+    <string name="obsTime">数据观测时间</string>
+</resources>
